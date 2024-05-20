@@ -22,8 +22,6 @@ At AMBMM Business Consultancy Inc., our mission is to partner with our clients t
 
 Ready to take your business to the next level? Contact us today to learn more about how AMBMM Business Consultancy Inc. can help you achieve your goals.
 
-- **Email:** info@ambmmconsultancy.com
-- **Phone:** +1 (123) 456-7890
+- **Email:** info@ambmmconsultancy.com - rbingcang@ambmmconsultancy.com
+- **Phone:** +639300998527
 - **Website:** [www.ambmmconsultancy.com](https://www.ambmmconsultancy.com)
-
-Follow us on [LinkedIn](https://www.linkedin.com/company/ambmm-consultancy/) for the latest updates and insights!
